@@ -3,7 +3,7 @@
 
 > :computer: Now I am working to gain experience in front-end development.
 
-> black_nib: I am currently studying UI UX design
+> :black_nib: I am currently studying UI UX design
 
 ## Contact with me
 
