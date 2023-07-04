@@ -7,7 +7,7 @@
 
 > :black_nib: I am currently studying UI UX design
 
-🔭 I’m currently working on my big project<br>🌱 I’m currently learning UI/UX design<br>💬 Ask me about html and css<br>⚡ Fun fact i`m funny
+🔭 I’m currently working on my big project<br>💬 Ask me about html and css<br>⚡ Fun fact i`m funny
 
 
 ## 🌐 Socials:
