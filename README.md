@@ -12,7 +12,9 @@
 
 ## 🌐 Socials:
 Telegram - @jasecore
+
 Instagram - @jase_core.life
+
 Dicord - jasecore (id:648910611614400552)
 
 # 💻 Tech Stack:
